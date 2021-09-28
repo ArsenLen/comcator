@@ -1,2 +1,0 @@
-# comcator
-Comcator Repo
