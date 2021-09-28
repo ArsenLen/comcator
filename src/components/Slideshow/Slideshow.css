@@ -1,0 +1,10 @@
+.Slideshow {
+  margin-bottom: 15px;
+}
+.Slideshow .carousel{
+  border-radius: 10px;
+  box-shadow: 0 0.1em 1em -0.5em rgba(10, 10, 10, 0.1), 0 0px 0 1px rgba(10, 10, 10, 0.02);
+}
+.Slideshow .carousel .slide {
+  background-color: #fff;
+}

@@ -1,0 +1,6 @@
+.Tenders .TenderItem:nth-child(even) {
+  background: rgba(255, 255, 255, 0.15);
+  margin-left: -1.25rem;
+  margin-right: -1.25em;
+  padding: 1.25rem;
+}

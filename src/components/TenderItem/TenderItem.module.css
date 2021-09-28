@@ -1,0 +1,23 @@
+.item {
+  margin-bottom: 0.5em;
+}
+
+.item :global .title {
+  margin-bottom: 0.5rem;
+  display: block;
+}
+
+.item :global .title:hover {
+  text-decoration: underline;
+}
+
+.bottom {
+  margin-top: 0.5em;
+  display: flex;
+  justify-content: space-between;
+}
+
+.price {
+  font-weight: bold;
+  font-size: 1.2rem;
+}

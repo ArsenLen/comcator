@@ -1,0 +1,18 @@
+.SocialAuthButtons {
+  justify-content: center;
+}
+.SocialAuthButtons .fb {
+  background-color: #4267B2;
+}
+
+.SocialAuthButtons .gl {
+  background-color: #E64223;
+}
+
+.SocialAuthButtons .vk {
+  background-color: #4A76A8;
+}
+
+.SocialAuthButtons .ya {
+  background-color: #FEDB4E;
+}

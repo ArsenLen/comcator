@@ -1,0 +1,9 @@
+
+.header :global .breadcrumb li.is-active a {
+  color: #9abeff;
+}
+
+.header :global a:hover {
+  color: white;
+  text-decoration: underline;
+}

@@ -1,0 +1,12 @@
+.Profile {
+  display: flex;
+  align-items: center;
+}
+
+.Profile img {
+  border-radius: 50%;
+  margin-right: 10px;
+  width: 30px;
+  height: 30px;
+  display: inline-block;
+}
